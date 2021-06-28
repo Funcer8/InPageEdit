@@ -382,6 +382,10 @@
   display: none;
 }
 
+.skin-minerva .in-page-edit-article-link-group {
+  white-space: nowarp;
+}
+
 .in-page-edit .detailArea .detailBtnGroup {
   margin-left: 1.25em;
 }

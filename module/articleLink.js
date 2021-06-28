@@ -63,6 +63,9 @@ var articleLink = function (el) {
           })
         )
       )
+      if (config.skin === 'minerva') {
+        $this.parent().css('text-align', 'center');
+      }
     }
   })
 }
